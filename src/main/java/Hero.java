@@ -10,3 +10,4 @@ public class Hero {
         this.specialPower = specialPower;
         this.weakness = weakness;
 }
+// Add getters and setters for the fields
